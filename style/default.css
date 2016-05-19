@@ -7,8 +7,15 @@ body
 }
 A
 {
-	color:#003399;
+	font-weight:bold;
+	color:#000;
+	text-decoration:none;
 }
+A:hover
+{
+	text-decoration:underline;
+}
+
 .mc
 {
 	width:1000px;
